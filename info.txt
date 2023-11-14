@@ -1,6 +1,5 @@
+Instruções para entrega
 # 1️⃣ Desafio Classificador de nível de Herói
-
-Desafio usando javascript para determinar a classe de um personagem heróico, ministrado por Felipe Aguiar da DIO, no Bootcamp Potencia Tech pelo Ifood, introdutório a programação
 
 **O Que deve ser utilizado**
 
